@@ -43,8 +43,19 @@ Endüstriyel Tedarik Uygulaması, tedarikçiler ve alıcıları endüstri sektö
 ---
 
 ## Uygulama Görselleri
-
-
+<p align="center">
+<img src="images/foto/m1.png" width="200" height="350">
+<img src="images/foto/m2.png" width="200" height="350">
+<img src="images/foto/m3.png" width="200" height="350">
+<img src="images/foto/m6.png" width="200" height="350">
+<img src="images/foto/m8.png" width="200" height="350">
+<img src="images/foto/m9.png" width="200" height="350">
+<img src="images/foto/m10.png" width="200" height="350">
+<img src="images/foto/m11.png" width="200" height="350">
+<img src="images/foto/m13.png" width="200" height="350">
+<img src="images/foto/m15.png" width="200" height="350">
+<img src="images/foto/m25.png" width="200" height="350">
+</p>
 
 ---
 
